@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.prime-home {
+  background-color: #000000;
+  min-height: 100vh;
+  color: #ffffff;
+}
+.prime-logo {
+  width: 100%;
+}
+.movies-slider-cont {
+  padding: 25px;
+}

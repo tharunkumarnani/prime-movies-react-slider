@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.inner-popup {
+  background-color: #ffffff;
+}
+.thumbnail-style {
+  width: 90%;
+}
+.popup-content {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.player-style {
+  width: 200px;
+}
+.close-icon {
+  translate: 630px;
+  transform: translateY(-15px);
+  font-size: 20px;
+}
